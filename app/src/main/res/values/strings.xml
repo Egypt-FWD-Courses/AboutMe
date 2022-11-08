@@ -2,4 +2,16 @@
     <string name="app_name">AboutMe</string>
     <string name="name">Maged El-Esseily</string>
     <string name="yellow_star">Yellow star</string>
+    <string name="bio">I am a software engineering student.\n\n
+        I am enrolled in computer &amp; communication engineering in Cairo university,
+        I am in my last year of college. planning to create a 3D scanner application as a graduation project.\n\n
+        I have been through several projects in college:\n
+        - Developed Twitter clone using Flutter.\n
+        - Developed a compiler using Yaml &amp; Yacc.\n
+        - Developed a pong game using Assembly.\n
+        - Developed a restaurant management systems using C++.\n
+        - Developed an Operating system simulator using C.\n
+        - Developed an Office robot using Arduino.\n\n
+        I am a passionate engineer, fast learner, have experience with working under pressure and I have a leadership qualities.
+    </string>
 </resources>
