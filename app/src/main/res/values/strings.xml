@@ -14,4 +14,6 @@
         - Developed an Office robot using Arduino.\n\n
         I am a passionate engineer, fast learner, have experience with working under pressure and I have a leadership qualities.
     </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
 </resources>
