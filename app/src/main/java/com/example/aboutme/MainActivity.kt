@@ -21,7 +21,6 @@ class MainActivity : AppCompatActivity() {
 //        findViewById<Button>(R.id.done_button).setOnClickListener{
 //            addNickname(it)
 //        }
-
         binding.doneButton.setOnClickListener{
             addNickname(it)
         }
