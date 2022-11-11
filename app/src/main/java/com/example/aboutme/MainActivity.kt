@@ -11,11 +11,12 @@ import com.example.aboutme.databinding.ActivityMainBinding
 class MainActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityMainBinding
+    private val myName: MyName = MyName(name = "Maged El-Esseily")
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = DataBindingUtil.setContentView(this, R.layout.activity_main)
-
+        binding.myName = myName
 //        setContentView(R.layout.activity_main)
 //        findViewById<Button>(R.id.done_button).setOnClickListener{
 //            addNickname(it)
